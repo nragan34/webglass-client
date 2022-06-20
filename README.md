@@ -46,3 +46,36 @@ npm run test:e2e # or `npm run test:e2e:ci` for headless testing
 ```sh
 npm run lint
 ```
+
+
+## Built With
+```
+Frontend: 
+---------------------------------------------------------
+language - javascript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+framework - vue3
+https://vuejs.org/guide/introduction.html
+Tailwindscss:
+https://tailwindcss.com/
+Flowbite:
+https://flowbite.com/docs/getting-started/vue/   
+Vite:
+https://vitejs.dev/guide/#command-line-interface
+
+
+Backend: 
+---------------------------------------------------------
+language - java
+https://docs.oracle.com/javase/tutorial/
+framework - spring-boot
+https://spring.io/projects/spring-boot
+
+
+Database:
+---------------------------------------------------------
+sql
+https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15
+
+```
+
